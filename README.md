@@ -1,6 +1,7 @@
 # DeepVol
 
-Volume inference for an input fruit image.
+Volume inference for an input fruit image writen in caffe.
+Run volumeFood.py, you may need to add your own caffe path
 
 
 
@@ -10,8 +11,11 @@ The dataset can be downloaded on
 
 The structures are like:
     data0_230
+
         video0
+        
             0.jpg
+            
             10.jpg
             ...
             310.jpg
