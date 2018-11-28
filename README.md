@@ -5,7 +5,7 @@ Run volumeFood.py, you may need to add your own caffe path
 
 
 
-The dataset can be downloaded on 
+The dataset can be downloaded on https://drive.google.com/uc?id=1TY9MQtW3aY_a9iX-7tR3fNxiDxGDQlMY&export=download
 
 The structures are like:
 
